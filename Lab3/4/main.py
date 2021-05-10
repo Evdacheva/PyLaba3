@@ -1,6 +1,6 @@
 from StringFormater import StringFormatter  
 
-string = "ksl;jasfj aafdsa a dfs as 123 dfasfafsa"
+string = "hello; it is me, how are you; i am fine 74382"
 
 #Напишите простой класс StringFormatter для форматирования строк со следующим функционалом: 
 print(StringFormatter.DelWords(string, 3)) #Удаление всех слов из строки, длина которых меньше n букв
